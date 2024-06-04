@@ -1,5 +1,7 @@
 # Metacrafters-Ethereum-Project-Create_A_Token
 
+https://www.loom.com/share/17edcc3e3953448a9b8b9019f1238c87
+
 ## Solidity Contract: Counter-Strike Token
 
 This Solidity contract, named `CounterStrike`, represents a simple token contract with the following features:
